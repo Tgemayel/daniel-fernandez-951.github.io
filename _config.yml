@@ -40,7 +40,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  jekyll-theme-hydejack/assets/img/logo.png
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -52,6 +52,10 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             Blog
+    url:               /blog/
+  - title:             Projects
+    url:               /projects/
   - title:             Example
     url:               /example/
   - title:             Documentation
@@ -73,7 +77,7 @@ legal:
 copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /:categories/:year-:month-:day-:title/
+permalink:             /blog/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -108,7 +112,7 @@ remote_theme: hydecorp/hydejack@v9.0.4
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image:          jekyll-theme-hydejack/assets/img/sidebar-bg.jpg
+accent_image:          assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -280,7 +284,7 @@ hydejack:
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
     # Set to `true` to always use the dark theme.
-    always:            false
+    always:            true
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
     dynamic:           true
