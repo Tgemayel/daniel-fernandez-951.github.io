@@ -8,19 +8,20 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Always a student with interests in many topics. Currently studying Data Science
+    at Lambda School. Trained as a machinist; created tooling for manufacturing
+    processes and research. During the pandemic, used modeling and machining
+    expirience to provide local hospitals with couplers for breathing machines.
 
-    Open `_data/authors.yml` to edit this text.
+    If not in the shop or at a terminal, look up!
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            assets/img/uploaded-img/df_128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            assets/img/uploaded-img/df_128.jpg
+      2x:            assets/img/uploaded-img/df_256.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -28,8 +29,9 @@ author1:
   social:
     keybase:          86p951
     github:          daniel-fernandez-951
+    email:           danielf@criptext.com
+    # linkedin:        <firstname-lastname-string>
     # twitter:         <username>
-    # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -58,7 +60,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
