@@ -1,12 +1,12 @@
 ---
-layout: blog
+layout: post
 title: Who's At Risk For COVID?
 subtitle: Graphical exploration using CDC Data
 image: assets/img/uploaded-img/covid-twists.png
 categories: [Lambda School, Data Science]
 tags: [data-science, health, risk-assessment, analysis, lambda-ds, build-week-1]
 ---
-/blog
+/example/_posts
 
 - Table of Contents
 {:toc .large-only}
