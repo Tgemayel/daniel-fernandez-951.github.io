@@ -2,11 +2,13 @@
 layout: post
 title: Who's At Risk For COVID?
 subtitle: Graphical exploration using CDC Data
-cover-img: /assets/img/covid-twists.png
-thumbnail-img: /assets/img/covid_wash_hands.png
-share-img: /assets/img/covid_wash_hands.png
+image: assets/img/uploaded-img/covid-twists.png
+categories: [Lambda School, Data Science]
 tags: [data-science, health, risk-assessment, analysis, lambda-ds, build-week-1]
 ---
+
+- Table of Contents
+{:toc .large-only}
 
 # Another Internet-Epidimeologist, GREAT! 🤦‍♂️
 Do not fret, there will be no talk about R<sub>t</sub> nor R<sub>0</sub>; instead, we will import CDC data from across the United States and display the data to gain insights. Use this [colab link] to get a detailed view into the process, comments welcomed. This blog is for refrence and a rough gauge of risk relative to the population of the United States.
