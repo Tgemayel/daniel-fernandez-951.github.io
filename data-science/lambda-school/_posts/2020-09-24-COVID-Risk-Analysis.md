@@ -19,6 +19,12 @@ Consult a trained physician for any medical advice!
 
 
 
+
+
+
+
+
+
 # Another Internet-Epidimeologist, GREAT! 🤦‍♂️
 Do not fret, there will be no talk about R<sub>t</sub> nor R<sub>0</sub>; instead, we will import CDC data from across the United States and display the data to gain insights. Use this [colab link] to get a detailed view into the process, comments welcomed. This blog is for refrence and a rough gauge of risk relative to the population of the United States.
 
