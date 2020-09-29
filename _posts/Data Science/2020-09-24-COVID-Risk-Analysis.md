@@ -9,7 +9,7 @@ description: >
 sitemap: true
 ---
 - Table of Contents
-{:toc .large-only}
+{:toc}
 
 
 Consult a trained physician for any medical advice!
